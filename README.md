@@ -1,3 +1,3 @@
 # BookLister-App
 Javascript project for BookList
-#Booklister project for ##javascript 
+# Booklister project for *javascript* 
